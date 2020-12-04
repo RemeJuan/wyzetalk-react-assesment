@@ -8,7 +8,7 @@
 
 ## Please use the following tools as part of your solution:
 
-* ReactJS + Redux
+* ReactJS
 * Typescript (optional)
 
 ## What is expected?
@@ -26,6 +26,8 @@ The following are completely optional, but will count to your advantage if any a
 * Unit tests (using jest)
 * Using @material-ui.
 * Usage of styled-components
+* Redux
+* React hooks
 
 ### Search Results
 
